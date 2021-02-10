@@ -6,7 +6,7 @@ import Images from "./Config";
 
 const App = () => {
   //earrings,necklaces...
-  //GITDEMO....................
+  //GITDEMO....................edited by PV!!!!
   const isTwoD = false;
   //config---
   return (
